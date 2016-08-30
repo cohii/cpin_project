@@ -1,0 +1,40 @@
+
+* Project Details
+
+
+** Team Members
+
+*** James Wolfe
+jwolfe45 @ ivytech.edu 
+ghost @ cohii.com
+
+*** Adam Bradley
+jbradley5 @ ivytech.edu
+
+*** John Meehan
+jmeehan7 @ ivytech.edu
+
+*** Chad Schlesinger
+Group Leader//
+cschlesinger @ ivytech.edu
+
+** Project Requirements
+Follow the rubric, I guess?
+
+* Project Organization
+How we will tackle this project, programming or otherwise.
+
+** Database
+We need to outline our database fields and relations, and the SQL must be set up.
+
+** Programming
+Fizz or buzz, we need to decide on our language(s) and abstract the problems.
+
+** Boring Stuff
+We need to document and outline things. I guess this counts?
+
+* Notes
+Stuff we talk about?
+
+* Resources
+https://duckduckgo.com
